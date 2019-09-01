@@ -1,4 +1,5 @@
-#Darshan Mistry..
+#File search...
+
 #!/bin/bash
 
 #check if a search has been specified
