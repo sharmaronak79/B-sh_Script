@@ -1,5 +1,5 @@
-#!/bin/bash
 
+#!/bin/bash
 echo "Enter username please."
 read username
 
