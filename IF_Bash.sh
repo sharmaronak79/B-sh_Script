@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 echo "Enter te number please.";
