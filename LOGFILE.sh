@@ -1,5 +1,7 @@
 #LogFile....
+
 #!/bin/bash
+
 #check if a search has been specified.
 numargs=$#
 if [ $numargs -lt 1 ]
