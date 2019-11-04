@@ -1,5 +1,4 @@
 #!/bin/bash
-
 FILE=$1
 while 
 read LINE; 
