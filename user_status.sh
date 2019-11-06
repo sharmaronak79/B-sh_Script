@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo "Enter username please."
 read username
 echo "Please Enter password"
