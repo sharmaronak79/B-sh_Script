@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Enter te number please.";
+echo "Enter ten number please.";
 read n;
 if [ $n -lt 10 ];
 then
